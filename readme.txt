@@ -3,5 +3,13 @@ Git is free software.
 Git has mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
+<<<<<<< Updated upstream
+creating a new branch is dev & simple.
+=======
 creating a new branch is dev.
+<<<<<<< HEAD
+new
+>>>>>>> Stashed changes
+=======
 Git is a free software ...
+>>>>>>> issue-101
